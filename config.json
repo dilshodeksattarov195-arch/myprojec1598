@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdonnect",
+        "uuid": 11997784,
+        "checksum": "qihcnw"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
